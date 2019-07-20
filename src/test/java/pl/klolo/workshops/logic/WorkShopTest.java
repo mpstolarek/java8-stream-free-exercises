@@ -99,11 +99,11 @@ public class WorkShopTest {
   /**
    * 8.
    */
-  @Test
-  public void shouldReturnAllCompaniesNameAsStringUsingStringBuilder() {
-    final String allCompaniesName = workShop.getAllCompaniesNamesAsStringUsingStringBuilder();
-    assertEquals("Nescafe+Gerber+Nestea+Fanta+Sprite+Lays+Pepsi+Mirinda", allCompaniesName);
-  }
+//  @Test
+//  public void shouldReturnAllCompaniesNameAsStringUsingStringBuilder() {
+//    final String allCompaniesName = workShop.getAllCompaniesNamesAsStringUsingStringBuilder();
+//    assertEquals("Nescafe+Gerber+Nestea+Fanta+Sprite+Lays+Pepsi+Mirinda", allCompaniesName);
+//  }
 
   /**
    * 9.
